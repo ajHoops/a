@@ -1,0 +1,45 @@
+section{
+    margin: 20px 250px;
+}
+
+
+
+.one{
+    display: flex;
+    margin: 20px;
+    margin-bottom: 20px;
+    border-left: 1px solid black;
+    padding: 30px;
+}
+.aone{
+    flex: 1;
+    line-height: 40px;
+}
+.two{
+    display: flex;
+    margin-top: 20px;
+    margin: 20px;
+    border-left: 1px solid black;
+    padding: 30px;
+}
+.btwo{
+    flex: 1;
+    line-height: 40px;
+}
+
+.btnone{
+    border: 1px solid rgba(255, 255, 255, 1);
+    background-color: #E0B973;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    
+}
+.btn_two{
+    order: 1px solid rgba(255, 255, 255, 1);
+    background-color: #E0B973;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    
+}
